@@ -13,8 +13,9 @@ brew install openjdk
 ```
 
 * Create automator app file:
-<center>
+
 <figure>
-  <img src="./launcher-script.png" width="60%">
+  <center>
+    <img src="./launcher-script.png" width="60%">
+  </center>
 </figure>
-</center>
