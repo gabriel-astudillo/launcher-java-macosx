@@ -19,3 +19,7 @@ brew install openjdk
     <img src="./launcher-script.png" width="60%">
   </center>
 </figure>
+
+* Save as `openLauncherJava.app` in `Applications` directory.
+
+* Open `*.jar` file properties and set the default open app to `openLauncherJava.app`.
